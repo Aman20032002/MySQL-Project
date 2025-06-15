@@ -1,7 +1,6 @@
 -- SELECT STATEMENET
 
--- the SELECT statement is used to work with columns and specify what columns you want to work see in your output. There are a few other things as well that
--- we will discuss throughout this video
+-- the SELECT statement is used to work with columns and specify what columns I want to work see in my output.
 
 #We can also select a specefic number of column based on our requirement. 
 
