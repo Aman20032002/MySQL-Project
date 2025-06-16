@@ -1,2 +1,2 @@
-# MySQL Project
-This is my SQL project repository for Data Analytics
+# MySQL Trainings
+This is my SQL training repository for Data Analytics
